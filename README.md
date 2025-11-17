@@ -15,7 +15,7 @@
       </br>
       </br>
       </br>
-      - 📖 Hi, I'm Ali, Frontend Maestro Designing the Future </br>
+      - 📖 Hi, I'm  Frontend Maestro Designing the Future </br>
       - 🚀 JavaScript Virtuoso from Iran!</br>
       - 🌟 Tech Innovator, Pushing Boundaries</br>
       - 🎶 Chilling Out and Crafting Code</br>
