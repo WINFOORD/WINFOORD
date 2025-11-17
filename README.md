@@ -34,13 +34,7 @@
 
   ![](https://raw.githubusercontent.com/Ali-Alinejad/Ali-Alinejad/main/out/github-snake-dark.svg)
 
-  <h2>🎯 My Current Focus</h2>
-  <ul>
-    <li>🌐 Developing Scalable Frontend Applications</li>
-    <li>🤖 Transitioning Into AI with Python</li>
-    <li>🎮 Building AI Applications</li>
-    <li>📚 Learning New Technologies and Contributing to Open Source</li>
-  </ul>
+
 
   
   <div align="center" style="margin-top: 30px">
