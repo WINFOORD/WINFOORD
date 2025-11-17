@@ -15,14 +15,8 @@
       </br>
       </br>
       </br>
-      - 📖 Hi, I'm  Frontend Maestro Designing the Future </br>
-      - 🚀 JavaScript Virtuoso from Iran!</br>
-      - 🌟 Tech Innovator, Pushing Boundaries</br>
-      - 🎶 Chilling Out and Crafting Code</br>
-      - 🧠 Transforming Ideas into Reality</br>
-      - 📈 Passionate About Open-Source Contributions</br>
-      </br>
-    </p>
+
+     
   </div>
     <div>
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="GitHub" width="65" height="65" />
