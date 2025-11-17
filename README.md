@@ -2,10 +2,10 @@
  <h1 align='center'>Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <p align='center'> 
     <a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe5299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAli-Alinejad%2FREACT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAli-Alinejad%2FREACT&label=%E2%98%91%EF%B8%8FVISITORS&countColor=%23ff8a65&style=flat" /></a>
-    <a href="https://github.com/Ali-Alinejad?tab=repositories"><img src="https://img.shields.io/github/stars/Ali-Alinejad?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-    <a href="https://github.com/Ali-Alinejad?tab=followers"><img src="https://img.shields.io/github/followers/Ali-Alinejad?label=Followers&style=flat&logo=github&color=lightblue"/></a>
-    <a href="https://github.com/sponsors/Ali-Alinejad"><img src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?logo=githubsponsors&style=flat"/></a>
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FWINFOORD%2FREACT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWINFOORD%2FREACT&label=%E2%98%91%EF%B8%8FVISITORS&countColor=%23ff8a65&style=flat" /></a>
+    <a href="https://github.com/WINFOORD?tab=repositories"><img src="https://img.shields.io/github/stars/WINFOORD?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+    <a href="https://github.com/WINFOORD?tab=followers"><img src="https://img.shields.io/github/followers/WINFOORD?label=Followers&style=flat&logo=github&color=lightblue"/></a>
+    <a href="https://github.com/sponsors/WINFOORD"><img src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?logo=githubsponsors&style=flat"/></a>
   </p>
 
 
@@ -32,7 +32,7 @@
         
         
 
-  ![](https://raw.githubusercontent.com/Ali-Alinejad/Ali-Alinejad/main/out/github-snake-dark.svg)
+  ![](https://raw.githubusercontent.com/WINFOORD/WINFOORD/main/out/github-snake-dark.svg)
 
 
 
@@ -40,12 +40,12 @@
   <div align="center" style="margin-top: 30px">
     <h2>GitHub Stats</h2>
     <p align="center">
-      <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Ali-Alinejad&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-      <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Alinejad&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=20&hide=text">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Ali-Alinejad&theme=darcula&hide_border=true&background=FFFFFF00">
+      <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=WINFOORD&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+      <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WINFOORD&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=20&hide=text">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=WINFOORD&theme=darcula&hide_border=true&background=FFFFFF00">
       <br>
       <br>
-      <a href="https://www.buymeacoffee.com/Ali-Alinejad"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="buy me a coffee" /></a>
+      <a href="https://www.buymeacoffee.com/WINFOORD"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="buy me a coffee" /></a>
     </p>
   </div>
 
@@ -56,6 +56,6 @@
 
   <div align="center" style="margin-top: 30px">
     <a href="mailto:alialineejad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ali-alinejad-1b5827202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/WINFOORD-1b5827202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>
